@@ -1,0 +1,16 @@
+{
+  "name": "pinino_multiplicador",
+  "version": "0.0.1",
+  "description": "Utileria para crear archivos de tablas de multiplicacion pasando la base como parametro desde la linea de comandos.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base3": "node app.js --base=3"
+  },
+  "author": "Engelbert Zamudio Ponzzi",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
