@@ -22,6 +22,11 @@
    ### CONTINUAMOS... 
 
    1. **Vinculamos** nuestro proyecto al repositorio en github **``git remote add origin https://github.com/zamudpoe/git-node-tabla.git``**  
-   2. **Renombramos** la rama principal por **main**: **``git branch -M main``** 
-   3. Agregamos al repositorio :  ``git push -u origin main``  
+   1. **Renombramos** la rama principal por **main**: **``git branch -M main``** 
+   1. Agregamos al repositorio :  ``git push -u origin main``  
 
+   1. Creamos el archivo ``README.md`` en la raiz del proyecto y le ponemos todo lo que quermos en formato markdown. 
+   1. **Preparamos** nuestro proyecto para subir el nuevo archivo **README.md** que acabamos de crear: 
+      1. Agregamos los cambios: ``git add .`` 
+      1. Hacemos el commit :  ``git commit -m "README.md agregado"`` 
+      1. 
