@@ -29,4 +29,5 @@
    1. **Preparamos** nuestro proyecto para subir el nuevo archivo **README.md** que acabamos de crear: 
       1. Agregamos los cambios: ``git add .`` 
       1. Hacemos el commit :  ``git commit -m "README.md agregado"`` 
-      1. 
+      1. Hacemos el push: ``git push`` 
+
